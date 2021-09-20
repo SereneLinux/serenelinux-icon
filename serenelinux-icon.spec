@@ -3,6 +3,7 @@ Name: serenelinux-icon
 Version: 1.0.3
 Release: 1%{?dist}
 Group: User Interface/Desktops
+BuildArch: noarch
 License: NONE
 Packager: kokkiemouse
 Vendor: INDETAIL
